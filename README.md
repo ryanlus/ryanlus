@@ -45,7 +45,7 @@
 ## 📫 Connect With Me | 联系我
 
 - **Email:** [ryan.lu257@proton.me](mailto:ryan.lu257@proton.me)
-- **GitHub:** [github.com/ryanlu7](https://github.com/ryanlu7)
+- **GitHub:** [github.com/ryanlus](https://github.com/ryanlus)
 
 ---
 
